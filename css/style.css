@@ -1423,8 +1423,8 @@ a.selected-item:before, .side-menu a:hover:before {
 	/* End Testmonials Section */
 }
 
-body {
-  background-color: #222;
+.text-center{
+	text-align: center;
 }
 
 #preloader {
