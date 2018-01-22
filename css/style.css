@@ -1423,10 +1423,6 @@ a.selected-item:before, .side-menu a:hover:before {
 	/* End Testmonials Section */
 }
 
-.icon-center{
-	padding-left: 230px;
-}
-
 #preloader {
     position: fixed;
     top: 0;
